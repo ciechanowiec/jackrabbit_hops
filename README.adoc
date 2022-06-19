@@ -1,0 +1,16 @@
+= Apache Jackrabbit - First Hops
+:reproducible:
+:doctype: article
+:author: Herman Ciechanowiec
+:email: herman@ciechanowiec.eu
+:chapter-signifier:
+:sectnums:
+:sectnumlevels: 5
+:sectanchors:
+:toc: left
+:toclevels: 5
+:icons: font
+
+This repository contains basic examples of how to use Apache Jackrabbit. The examples come from https://jackrabbit.apache.org/jcr/first-hops.html.
+
+To visualise the data structure managed by Apache Jackrabbit use Toromiro (https://subshell.com/docs/4/toromiro/toromiro114.html).

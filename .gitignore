@@ -1,0 +1,9 @@
+*.class
+*.iml
+*.log
+.idea
+.vscode
+target
+/jackrabbit
+*.log_IS_UNDEFINED
+.log_IS_UNDEFINED
